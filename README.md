@@ -2,7 +2,9 @@
 
 Windows 运行 BeamNG 并采集点云、图像，Linux 通过普通 SSH 接收并发布 ROS 话题。
 
-云盘下载链接：
+云盘下载链接：[BeamNG_files.zip](https://pan.baidu.com/s/1vjXYkbsCX5eT2RMmNk-AdA?pwd=6ez7)
+
+提取码：`6ez7`
 
 ## 一、Windows 部署
 
